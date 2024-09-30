@@ -1,0 +1,20 @@
+article {
+  background-color:dimgray ;
+  font-weight: bold;
+  font-size: 30px;
+  font-style: italic;
+  color: white;
+  text-align: center;
+
+}
+main
+{
+  color: cyan;
+
+}
+
+footer
+{
+  text-align: left;
+  color :limegreen;
+}
